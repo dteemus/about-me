@@ -1,0 +1,143 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;    
+    text-align: center;
+}
+
+h2 {
+    margin: 0;
+}
+
+hr {
+    margin: 0%;
+}
+
+.about-me-container {
+    background-color:#7952B3;
+    position:relative;
+    padding-top: 40px;
+    width: 100%;
+}
+
+.contact-me {
+    padding: 20px;
+}
+
+.intro-para {
+    font-weight: normal;
+}
+
+.intro-h3 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;    
+}
+
+.profile {
+    padding: 25px;
+}
+
+.skills {
+    background-color: #FFC107;
+    padding: 25px;    
+}
+
+.skill-row {  
+    margin:5px;
+    width: 50%;
+    margin: 0px;
+}
+
+.skill-subrow {    
+    /* display:inline-flex;                */
+}
+
+.thumbnail {    
+    /* padding: 10px; */
+    margin: 0;
+}
+
+#bottom-cloud {
+    position: absolute;
+    width: 15%;
+    right: 25%;
+}
+
+#deloitte {
+    height:80px;
+    border-radius: 70%;
+}
+
+#deloitte-para {
+    width: 80%;
+    display: inline-block;
+    margin-top: 0;
+}
+
+#display-pic {
+    border-radius: 70%;
+    height:80px;
+    margin-top: 20px;
+}
+
+#footnote-copyright {
+    font-size: x-small;
+}
+
+#hi-message {
+    font-size: 5rem;
+    font-family: 'Sacramento', cursive;
+    width: 50%;
+    display: block;
+    color: #E1E8EB;
+    margin-left:25%;
+    margin-bottom: 0;    
+}
+
+#intro-para-1 {
+    color: #E1E8EB;
+    /* font-size: 3.25rem; */
+}
+
+#mountain-img {
+    padding-top: 10px;
+    width: 40%; 
+    height: 30%;
+}
+
+#MU {
+    color: red;
+}
+
+#top-cloud {
+    position: relative;    
+    margin-top: 25px;
+    width: 15%;
+    right: 15%;
+
+}
+
+#workPlayHeader {
+    font-family: 'Sacramento', cursive;
+    display: none;
+}
+
+#work-play {
+    display: flex;
+}
+
+#writer {
+    height: 80px;
+    border-radius: 70%;
+}
+
+#writer-para {
+    width: 80%;
+    display: inline-block;
+    margin-top: 0;
+}
+
+
+#X {
+    font-weight: bold;
+    font-size: 120%;
+}

@@ -38,7 +38,9 @@ hr {
 
 .skills {
     background-color: #FFC107;
-    padding: 25px;    
+    padding: 25px;
+    text-align: left;   
+    padding: 2%; 
 }
 
 .skill-row {  
@@ -48,27 +50,29 @@ hr {
 }
 
 .skill-subrow {    
-    /* display:inline-flex;                */
+    /* display:inline-flex;                */    
+    
 }
 
 .thumbnail {    
     /* padding: 10px; */
-    margin: 0;
+    margin-right: 30px;
 }
 
 #bottom-cloud {
     position: absolute;
-    width: 15%;
+    width: 10%;
     right: 25%;
 }
 
 #deloitte {
     height:80px;
     border-radius: 70%;
+    float: left;
 }
 
 #deloitte-para {
-    width: 80%;
+    width: 75%;
     display: inline-block;
     margin-top: 0;
 }
@@ -111,7 +115,7 @@ hr {
 #top-cloud {
     position: relative;    
     margin-top: 25px;
-    width: 15%;
+    width: 10%;
     right: 15%;
 
 }
@@ -128,14 +132,18 @@ hr {
 #writer {
     height: 80px;
     border-radius: 70%;
+    float: left;    
 }
 
 #writer-para {
-    width: 80%;
+    width: 60%;
     display: inline-block;
-    margin-top: 0;
+    margin-top: 0;    
 }
 
+#writer-subrow {
+    margin-left: 10%;
+}
 
 #X {
     font-weight: bold;
